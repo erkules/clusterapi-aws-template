@@ -71,7 +71,7 @@ metadata:
   name: erkan-md-0
 spec:
   clusterName: erkan
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels: null
   template:
